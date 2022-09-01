@@ -1,1 +1,1 @@
-# Chatty
+# Chatty App
